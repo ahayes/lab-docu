@@ -8,12 +8,13 @@ theme:
   name: 'material'
   custom_dir: overrides
   palette:
-    primary: 'red'
+    primary: 'blue'
     accent: 'green'
 
 dev_addr: 192.168.1.27:8000
 nav:
     - 'Home': 'index.md'
+    - 'S4810-ON': 'S4810.md'
     - 'Brocade Overview': 'brocade-overview.md'
     - Brocade Setup:
         - 'FCX / ICX6610': 'fcx.md'
